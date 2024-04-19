@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/bensha0data0analysis0adewole0oyediran.png'); /* Corrected image path */
+            background-image: url('images/network-communication-high-tech-network-cable_2150184.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -18,6 +18,9 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
+            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Corrected image path */
+            background-size: cover;
+            background-repeat: no-repeat;
             background-color: rgba(255, 255, 255, 0.8);
             padding: 20px;
             border-radius: 8px;
