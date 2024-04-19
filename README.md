@@ -8,7 +8,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Replace 'background.jpg' with your image path */
+            background-image: url('background.jpg'); /* Replace 'background.jpg' with your image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -17,6 +17,9 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
+            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Replace 'grey-background.jpg' with your image path */
+            background-size: cover;
+            background-repeat: no-repeat;
             background-color: rgba(255, 255, 255, 0.8);
             padding: 20px;
             border-radius: 8px;
@@ -56,7 +59,7 @@
 <body>
 
 <div class="container">
-    <h1>Adewole Benjamin Oyediran</h1>
+    <h1>ADEWOLE BENJAMIN OYEDIRAN</h1>
     <ul class="project-list">
         <!-- Example project item, replace with your own projects -->
         <li>
