@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/—Pngtree—network communication high-tech network cable_2150184.png'); /* Corrected image path */
+            background-image: url('images/bensha0data0analysis0adewole0oyediran.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -68,4 +69,19 @@
             </a>
             <div class="project-description">
                 <p>
-                    This project is part of the DataCamp course and involves conducting an exploratory data analys
+                    This project is part of the DataCamp course and involves conducting an exploratory data analysis on Netflix movies to gain insights into their distribution, duration, and trends over the years. The analysis involved:
+                </p>
+                <ul>
+                    <li>Data loading</li>
+                    <li>Filtering</li>
+                    <li>Visualization</li>
+                    <li>Interpretation using Python and its libraries</li>
+                </ul>
+            </div>
+        </li>
+        <!-- Add more projects as needed -->
+    </ul>
+</div>
+
+</body>
+</html>
