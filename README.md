@@ -5,15 +5,19 @@
     <title>ADEWOLE'S PORTFOLIO</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
+            background-image: url('background.jpg'); /* Replace 'background.jpg' with your image path */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
             background-color: #f4f4f4;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background-color: #fff;
+            background-color: rgba(255, 255, 255, 0.8);
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -21,6 +25,7 @@
         h1 {
             text-align: center;
             color: #333;
+            font-family: 'Comic Sans MS', sans-serif; /* Cute and decorative font */
         }
         .project-list {
             list-style-type: none;
