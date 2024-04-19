@@ -56,7 +56,7 @@
 <body>
 
 <div class="container">
-    <h1>ADEWOLE BENJAMIN OYEDIRAN</h1>
+    <h1>Adewole Benjamin Oyediran</h1>
     <ul class="project-list">
         <!-- Example project item, replace with your own projects -->
         <li>
