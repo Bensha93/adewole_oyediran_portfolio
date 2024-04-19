@@ -8,7 +8,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('Screenshot 2024-04-19 184353.png'); /* Replace 'background.jpg' with your image path */
+            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Replace 'background.jpg' with your image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
