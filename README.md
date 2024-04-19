@@ -8,7 +8,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('background.jpg'); /* Replace 'background.jpg' with your image path */
+            background-image: url('Screenshot 2024-04-19 184353.png'); /* Replace 'background.jpg' with your image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -56,7 +56,7 @@
 <body>
 
 <div class="container">
-    <h1>My GitHub Projects</h1>
+    <h1>ADEWOLE BENJAMIN OYEDIRAN</h1>
     <ul class="project-list">
         <!-- Example project item, replace with your own projects -->
         <li>
