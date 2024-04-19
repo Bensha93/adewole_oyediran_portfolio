@@ -9,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/network-communication-high-tech-network-cable_2150184.png'); /* Corrected image path */
+            background-image: url('images/—Pngtree—network communication high-tech network cable_2150184.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
