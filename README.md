@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -69,11 +68,4 @@
             </a>
             <div class="project-description">
                 <p>
-                    This project is part of the DataCamp course and involves conducting an exploratory data analysis on Netflix movies to gain insights into their distribution, duration, and trends over the years. The analysis involved:
-                </p>
-                <ul>
-                    <li>Data loading</li>
-                    <li>Filtering</li>
-                    <li>Visualization</li>
-                    <li>Interpretation using Python and its libraries</li>
-                <
+                    This project is part of the DataCamp course and involves conducting an exploratory data analys
