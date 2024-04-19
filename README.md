@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/—Pngtree—network communication high-tech network cable_2150184.png'); /* Replace 'background.jpg' with your image path */
+            background-image: url('images/network-communication-high-tech-network-cable_2150184.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -17,7 +18,7 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Replace 'grey-background.jpg' with your image path */
+            background-image: url('images/Screenshot 2024-04-19 184353.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-color: rgba(255, 255, 255, 0.8);
@@ -75,12 +76,4 @@
                     <li>Filtering</li>
                     <li>Visualization</li>
                     <li>Interpretation using Python and its libraries</li>
-                </ul>
-            </div>
-        </li>
-        <!-- Add more projects as needed -->
-    </ul>
-</div>
-
-</body>
-</html>
+                <
