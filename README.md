@@ -8,7 +8,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('background.jpg'); /* Replace 'background.jpg' with your image path */
+            background-image: url('images/—Pngtree—network communication high-tech network cable_2150184.png'); /* Replace 'background.jpg' with your image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
