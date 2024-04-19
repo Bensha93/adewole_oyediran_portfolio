@@ -8,7 +8,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('images/bensha0data0analysis0adewole0oyediran.png'); /* Corrected image path */
+            background-image: url('image/bensha0data0analysis0adewole0oyediran.png'); /* Corrected image path */
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
