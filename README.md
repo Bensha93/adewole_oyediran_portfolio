@@ -71,7 +71,7 @@
                 <li>Visualization</li>
                 <li>Interpretation using Python and its libraries</li>
             </ul>
-            <img src="adewole_oyediran_portfolio/Screenshot 2024-04-19 184353.png" alt="Project One Image">
+            <img src="adewole_oyediran_portfolio/image" alt="Project One Image">
         </li>
         <!-- Additional project -->
         <li>
