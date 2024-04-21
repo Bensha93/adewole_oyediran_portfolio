@@ -35,10 +35,11 @@
             align-items: center;
         }
         .project-list li img {
-            width: 250px; /* Increased image size */
-            height: 250px; /* Increased image size */
+            width: 150px;
+            height: 150px;
             margin-right: 20px;
             border-radius: 8px;
+            flex-shrink: 0; /* Prevents the image from shrinking */
         }
         .project-list li a {
             text-decoration: none;
